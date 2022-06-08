@@ -19,14 +19,32 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - Recreate old census graphics
 
-# Perception of 3D Printed Graphs
+- Perception of map projections
 
-[User Study: A Detailed View on the Effectiveness and Design of Tactile Charts](https://link.springer.com/chapter/10.1007/978-3-030-29381-9_5)
+# Perception of 3D Printed Graphs
 
 [Tactile Heatmaps: A Novel Visualisation Technique for Data Analysis with Tactile Charts](https://dl.acm.org/doi/fullHtml/10.1145/3453892.3458045)
 
-- Participants preferred 3D printed heatmaps over 
+- Pilot study (11 participants)
+
+- Participants preferred 3D printed heatmaps over alternative material/plots
+
+- Elevation and texture combinations were suggested
+
+- Metrics about preference instead of error metrics
+
+[User Study: A Detailed View on the Effectiveness and Design of Tactile Charts](https://link.springer.com/chapter/10.1007/978-3-030-29381-9_5)
+
+- Larger study (37 participants)
+
+- Bar chart, line chart, scatter plots
+
+- Readability and accuracy
 
 # ggplot2 Extension
 
 [ggplot2.tidyverse.org](https://ggplot2.tidyverse.org/articles/extending-ggplot2.html)
+
+# Map Perceptions
+
+[Evaluating Cartograrm Effectiveness](https://arxiv.org/pdf/1504.02218.pdf)

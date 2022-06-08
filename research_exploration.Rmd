@@ -1,0 +1,32 @@
+---
+title: "Research Exploration"
+author: "Tyler Wiederich"
+date: "5/18/2022"
+output: 
+  html_document:
+    toc: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Research Topics
+
+- Perception of 3D printed graphs
+
+- Create extension of `ggplot2`
+
+- Recreate old census graphics
+
+# Perception of 3D Printed Graphs
+
+[User Study: A Detailed View on the Effectiveness and Design of Tactile Charts](https://link.springer.com/chapter/10.1007/978-3-030-29381-9_5)
+
+[Tactile Heatmaps: A Novel Visualisation Technique for Data Analysis with Tactile Charts](https://dl.acm.org/doi/fullHtml/10.1145/3453892.3458045)
+
+- Participants preferred 3D printed heatmaps over 
+
+# ggplot2 Extension
+
+[ggplot2.tidyverse.org](https://ggplot2.tidyverse.org/articles/extending-ggplot2.html)

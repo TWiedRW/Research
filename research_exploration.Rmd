@@ -48,3 +48,64 @@ knitr::opts_chunk$set(echo = TRUE)
 # Map Perceptions
 
 [Evaluating Cartograrm Effectiveness](https://arxiv.org/pdf/1504.02218.pdf)
+
+# Graphics
+
+[Signs of the Sine Illusion—Why We Need to Care](https://www.tandfonline.com/doi/abs/10.1080/10618600.2014.951547?journalCode=ucgs20)
+
+
+[ Data Visualization: Preference and Use of Two-Dimensional and Three-Dimensional Graphs](https://journals.sagepub.com/doi/10.1177/089443939701500303)
+
+- No preference of visual appeal for 2D vs. 3D charts, with exceptions 
+
+- Participants liked 3D mixed bar and line graphs, but disliked 3D floating line graphs
+
+- 2D more effective at conveying quantitative data than 3D on paper
+
+[The effects of two- or three-dimensional graphics on the problem-solving performance of experienced and novice decision makers](https://www.tandfonline.com/doi/abs/10.1080/01449298908914567)
+
+- Has page of previous study results
+
+    - raw data vs statistically summarized reports
+    
+    - tabular display vs. 2D graphs
+    
+    - CRT displayed information vs. teletype terminals; graphs vs tabular reports
+    
+    - tabular displays vs. 2D graphs
+    
+    - 3D graphs vs tabular presentations of data
+    
+    - 2D tables and graphs vs. either alone
+    
+    - tabular displays vs. 2D graphs
+    
+    - 2D graphs vs 2D tabular reports
+    
+    - line plots vs. tables
+    
+    - tables vs. graphs
+    
+    - stereoscopic scattergrams vs stereoscopic block diagrams
+    
+    - 2D graphs vs tabular displays, monocolor vs multicolor
+    
+- Problem-solving performance using graphical data is affected by the dimensionality of the graph, mode of presentation, and background of the user
+
+- Solution times for computer graphs were faster than paper graphs; 3D computer graphs were less difficult to use than paper presentation of 2D and 3D
+
+- Solutions times were slower for 3D than 2D, but 3D computer graphs on computer had most effective answers
+
+[Reading Bar Graphs: Effects of Extraneous Depth Cues and Graphical Contex](https://www.tc.columbia.edu/faculty/bt2158/faculty-profile/files/argraphs_Effectsofdepthcuesandgraphicalcontext.pdf)
+
+- 3D less accurate, but neighboring graphical elements also affected judgement
+
+[When Higher Bars Are Not Larger Quantities: On Individual Differences in the Use of Spatial Information in Graph Comprehension](https://www.tandfonline.com/doi/full/10.1080/13875868.2012.659302)
+
+- Tendency to make errors when spatial features and other information conflict
+
+- People rely on spatial-to-conceptual mappings
+
+- This tendency was stronger for individuals with low graph literacy
+
+[Visual Psychophysics of Simple Graphical Elements](https://www.researchgate.net/publication/21006623_Visual_Psychophysics_of_Simple_Graphical_Elements)

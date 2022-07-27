@@ -109,3 +109,11 @@ knitr::opts_chunk$set(echo = TRUE)
 - This tendency was stronger for individuals with low graph literacy
 
 [Visual Psychophysics of Simple Graphical Elements](https://www.researchgate.net/publication/21006623_Visual_Psychophysics_of_Simple_Graphical_Elements)
+
+[3D InfoVis is here to stay: Deal with it](https://ieeexplore.ieee.org/abstract/document/7160096)
+
+- Talks about the benefits of 3D
+
+- Lighting may affect perception
+
+- The world is rendered in 3D. Can make it tough to view 2D sign from an angle
